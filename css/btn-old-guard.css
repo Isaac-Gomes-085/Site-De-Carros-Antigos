@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+}
+
+.ler-mais-btn {
+    padding: 2px 5px;
+    cursor: pointer;
+    background: none;
+    color: #fff;
+    font-size: 15px;
+    letter-spacing: .5px;
+    font-weight: 600;
+    border-radius: 4px;
+    text-decoration: underline;
+}
+
+.valor {
+    display: flex;
+    justify-content: end;
+    margin: 5px;
+}
+
+.comprar-btn{
+    font-size: 17px;
+    font-family: 'Roboto', serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 800;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 20px;
+    border: 2px solid #000000d0;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.9);
+    text-transform: uppercase;
+}
+
+.ver-mais{
+    background-color: rgba(0, 81, 255, 0.5);
+    font-size: 22px;
+    font-family: 'Roboto', serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 800;
+    padding: 10px;
+    margin: 4em;
+    cursor: pointer;
+    border-radius: 5px;
+    color: #fff;
+}
+
+.continuar {
+    text-decoration: underline;
+    font-size: 16px;
+    padding: 4px 0px;
+    cursor: pointer;
+}
