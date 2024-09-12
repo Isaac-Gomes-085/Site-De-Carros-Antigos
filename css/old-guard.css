@@ -101,7 +101,7 @@ html {
     min-width: 100%;
     min-height: 100vh;
     position: relative;
-    background-image: url('/img-bg/mustang-1967.jpg');
+    background-image: url('/main/img-bg/mustang-1967.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
