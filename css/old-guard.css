@@ -101,7 +101,7 @@ html {
     min-width: 100%;
     min-height: 100vh;
     position: relative;
-    background-image: url('/main/img-bg/mustang-1967.jpg');
+    background-image: url('../img-bg/mustang-1967.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -207,7 +207,7 @@ html {
 }
 
 #corvette {
-    background-image: url('/img-cars/corvette-1950s.jpg');
+    background-image: url('../img-cars/corvette-1950s.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -219,14 +219,15 @@ html {
     transform: scale(1.1);
     height: auto;
     width: 500px;
-    background-image: url('/img-cars/corvette-1950s.jpg');
+    background-image: url('../img-cars/corvette-1950s.jpg');
     background-size: cover;
     border-radius: 10px;
     gap: 0px;
+    cursor: pointer;
 }
 
 #jaguar {
-    background-image: url('/img-cars/Jaguar_Etype-1961.jpg');
+    background-image: url('../img-cars/Jaguar_Etype-1961.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -238,14 +239,15 @@ html {
     transform: scale(1.1);
     height: auto;
     width: 500px;
-    background-image: url('/img-cars/Jaguar_Etype-1961.jpg');
+    background-image: url('../img-cars/Jaguar_Etype-1961.jpg');
     background-size: cover;
     border-radius: 10px;
     gap: 0px;
+    cursor: pointer;
 }
 
 #porsche {
-    background-image: url('/img-cars/porsche911-1960s.jpg');
+    background-image: url('../img-cars/porsche911-1960s.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -257,14 +259,15 @@ html {
     transform: scale(1.1);
     height: auto;
     width: 600px;
-    background-image: url('/img-cars/porsche911-1960s.jpg');
+    background-image: url('../img-cars/porsche911-1960s.jpg');
     background-size: cover;
     border-radius: 10px;
     gap: 0px;
+    cursor: pointer;
 }
 
 #fusca {
-    background-image: url('/img-cars/fusca-1960s.jpg');
+    background-image: url('../img-cars/fusca-1960s.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -276,10 +279,11 @@ html {
     transform: scale(1.1);
     height: auto;
     width: 600px;
-    background-image: url('/img-cars/fusca-1960s.jpg');
+    background-image: url('../img-cars/fusca-1960s.jpg');
     background-size: cover;
     border-radius: 10px;
     gap: 0px;
+    cursor: pointer;
 }
 
 .rodape {

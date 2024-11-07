@@ -35,6 +35,11 @@
     color: #fff;
     background-color: rgba(0, 0, 0, 0.9);
     text-transform: uppercase;
+    transition: all .5s;
+}
+
+.comprar-btn:hover{
+    background-color: rgb(45, 45, 45);
 }
 
 .ver-mais{
